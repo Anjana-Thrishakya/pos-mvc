@@ -101,8 +101,8 @@
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                           <Component id="qohLabel" alignment="1" max="32767" attributes="0"/>
                           <Component id="unitPriceLabel" alignment="1" max="32767" attributes="0"/>
-                          <Component id="packSizeLabel" alignment="1" pref="102" max="32767" attributes="0"/>
-                          <Component id="descriptionLabel" alignment="1" max="32767" attributes="0"/>
+                          <Component id="packSizeLabel" alignment="1" max="32767" attributes="0"/>
+                          <Component id="descriptionLabel" alignment="1" pref="102" max="32767" attributes="0"/>
                           <Component id="itemCodeLabel" alignment="1" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
